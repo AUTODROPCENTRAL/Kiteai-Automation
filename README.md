@@ -118,7 +118,6 @@ Kredit: @autodropcentral
 
 Silakan fork dan kembangkan sesuai kebutuhan Anda.
 
-```
-
 ---
+
 
