@@ -114,7 +114,7 @@ Setelah itu, bot akan memproses setiap wallet dan menjalankan interaksi AI secar
 ## 📬 Kontak & Lisensi
 
 Lisensi: MIT
-Kredit: @autodropcentral
+Kredit: [@autodropcentral](https://t.me/AutoDropCentral)
 
 Silakan fork dan kembangkan sesuai kebutuhan Anda.
 
